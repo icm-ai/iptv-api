@@ -63,3 +63,8 @@ https://raw.githubusercontent.com/hardseedYH/iptv-playlist/main/result.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/main/cctv-main.m3u
 https://raw.githubusercontent.com/caicai20/TV/main/cc.txt
 https://raw.githubusercontent.com/mmmwhy/iptv-m3u8/main/iptv.m3u
+https://raw.githubusercontent.com/dongyubin/IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/snake-git/IPTV---2025/main/IPTV.m3u
+https://raw.githubusercontent.com/zhi35/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/kaige-cai/live/main/iptv.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/result.m3u
