@@ -68,3 +68,18 @@ https://raw.githubusercontent.com/snake-git/IPTV---2025/main/IPTV.m3u
 https://raw.githubusercontent.com/zhi35/iptv/main/iptv.m3u
 https://raw.githubusercontent.com/kaige-cai/live/main/iptv.m3u
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/result.m3u
+
+# 中国国内高质量频道源 (Chinese Domestic High-Quality Sources)
+# CCTV、地方卫视、regional satellites、优先IPv4 (CCTV, Regional Satellites, IPv4-preferred)
+https://raw.githubusercontent.com/malimali/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/hailin0/PaoCaiTV/main/直播.txt
+https://raw.githubusercontent.com/YJIT/IPTV.m3u/main/CCTV.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-M3U/main/Domestic.m3u
+
+# 港澳台频道源 (Hong Kong, Macau & Taiwan Channels)
+# TVB、Asia Channel、中文国际、HK regional (TVB, Asia, CGTN, Regional HK)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mo.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tc.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-M3U/main/HK.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-M3U/main/TW.m3u
