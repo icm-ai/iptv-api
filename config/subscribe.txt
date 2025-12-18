@@ -72,13 +72,16 @@ https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/result.
 # CCTV高质量专门频道源 (CCTV High-Quality Specialized Sources)
 # 聚焦CCTV-1到CCTV-17和CGTN，优先IPv4 (Focus on CCTV-1-17, CGTN, IPv4-preferred)
 https://raw.githubusercontent.com/YJIT/IPTV.m3u/main/CCTV.m3u
+https://raw.githubusercontent.com/alvin1991/live/main/iptv.m3u
+https://raw.githubusercontent.com/wqhang/cctv/main/cctv.m3u
+https://raw.githubusercontent.com/ssili126/tv/main/iptv/iptv.m3u
+https://raw.githubusercontent.com/joevess/IPTV/master/m3u/cctv.m3u
+https://raw.githubusercontent.com/nwfang/IPTV-list/main/cctv.m3u
 
 # 中国国内高质量频道源 (Chinese Domestic High-Quality Sources - Tier 2)
 # CCTV、地方卫视、regional satellites、优先IPv4 (CCTV, Regional Satellites, IPv4-preferred)
-https://raw.githubusercontent.com/malimali/iptv/main/iptv.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://raw.githubusercontent.com/hailin0/PaoCaiTV/main/直播.txt
 https://raw.githubusercontent.com/Ftindy/IPTV-M3U/main/Domestic.m3u
+https://raw.githubusercontent.com/hailin0/PaoCaiTV/main/直播.txt
 
 # 港澳台频道源 (Hong Kong, Macau & Taiwan Channels)
 # TVB、Asia Channel、中文国际、HK regional (TVB, Asia, CGTN, Regional HK)

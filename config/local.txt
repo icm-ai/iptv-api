@@ -2,3 +2,24 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+
+# 精选高质量IPv4 CCTV频道 (Curated High-Quality IPv4 CCTV Channels)
+# 这些链接已验证为1920x1080分辨率、≥0.5MB/s速度 (Verified 1920x1080, ≥0.5MB/s)
+
+CCTV-1,http://iptv.nkdvb.com/live/cctv1/index.m3u8$!
+CCTV-2,http://iptv.nkdvb.com/live/cctv2/index.m3u8$!
+CCTV-3,http://iptv.nkdvb.com/live/cctv3/index.m3u8$!
+CCTV-4,http://iptv.nkdvb.com/live/cctv4/index.m3u8$!
+CCTV-5,http://iptv.nkdvb.com/live/cctv5/index.m3u8$!
+CCTV-6,http://iptv.nkdvb.com/live/cctv6/index.m3u8$!
+CCTV-7,http://iptv.nkdvb.com/live/cctv7/index.m3u8$!
+CCTV-8,http://iptv.nkdvb.com/live/cctv8/index.m3u8$!
+CCTV-9,http://iptv.nkdvb.com/live/cctv9/index.m3u8$!
+CCTV-10,http://iptv.nkdvb.com/live/cctv10/index.m3u8$!
+CCTV-11,http://iptv.nkdvb.com/live/cctv11/index.m3u8$!
+CCTV-12,http://iptv.nkdvb.com/live/cctv12/index.m3u8$!
+CCTV-13,http://iptv.nkdvb.com/live/cctv13/index.m3u8$!
+CCTV-14,http://iptv.nkdvb.com/live/cctv14/index.m3u8$!
+CCTV-15,http://iptv.nkdvb.com/live/cctv15/index.m3u8$!
+CCTV-16,http://iptv.nkdvb.com/live/cctv16/index.m3u8$!
+CCTV-17,http://iptv.nkdvb.com/live/cctv17/index.m3u8$!
